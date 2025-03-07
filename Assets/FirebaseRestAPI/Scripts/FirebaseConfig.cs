@@ -1,6 +1,4 @@
-
 using UnityEngine;
-using static FirebaseRestAPI.FirebaseAuth;
 
 namespace FirebaseRestAPI
 {

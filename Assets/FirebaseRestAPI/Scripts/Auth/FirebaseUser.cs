@@ -1,7 +1,5 @@
 using Newtonsoft.Json;
 using System;
-using System.ComponentModel;
-using UnityEngine;
 
 namespace FirebaseRestAPI
 {

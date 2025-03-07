@@ -1,5 +1,3 @@
-using FirebaseRestAPI;
-using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
 

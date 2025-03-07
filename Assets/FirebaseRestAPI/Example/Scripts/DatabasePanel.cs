@@ -1,13 +1,8 @@
 using System.Collections;
 using UnityEngine;
-using UnityEngine.Networking;
-using FirebaseRestAPI;
 using TMPro;
 using UnityEngine.UI;
-using System.Collections.Generic;
 using Newtonsoft.Json;
-using System;
-using Newtonsoft.Json.Converters;
 
 namespace FirebaseRestAPI.Example
 {

@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 62dcf23fd4ff44e47a0105a336f9cf22, type: 3}
   m_Name: DefaultSessionSaver
   m_EditorClassIdentifier: 
-  encryptionKey: P9KvpICSkH1RHo1EbbL66A==
+  encryptionKey: 

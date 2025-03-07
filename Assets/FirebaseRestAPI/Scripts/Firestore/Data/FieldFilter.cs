@@ -1,8 +1,5 @@
-using FirebaseRestAPI;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
-using Newtonsoft.Json.Linq;
-using UnityEngine;
 
 namespace FirebaseRestAPI
 {

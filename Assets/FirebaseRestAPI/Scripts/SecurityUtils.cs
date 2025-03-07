@@ -1,9 +1,4 @@
-using System.Text;
 using UnityEngine;
-using System.Security.Cryptography;
-using System.IO;
-using System;
-using System.Collections.Generic;
 
 namespace FirebaseRestAPI
 {
